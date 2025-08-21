@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ **About Me**
-- 🎓 **BTech 3rd Year Student** | **CSE Department**  
+- 🎓 **BTech final-year Year Student** | **CSE Department**  
 - 💻 **Programming Skills**: Python, C, Java, HTML, CSS, JavaScript  
 - 🤖 Deeply Interested in **Artificial Intelligence** and **Machine Learning**  
 - 🌟 Passionate about **Problem-Solving** and **Building Innovative Solutions**  
