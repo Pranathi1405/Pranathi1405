@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranathi Gouri</h1>
-<h3 align="center">A Passionate 3rd year Computer Science Student Specialization of AI/ML</h3>
+<h3 align="center">A Passionate final-year Computer Science Student Specialization of AI/ML</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
